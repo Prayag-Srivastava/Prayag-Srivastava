@@ -2,7 +2,7 @@
 
 **Full Stack Developer | AI Systems Builder | Competitive Programmer**
 
-I'm a B.Tech Computer Science student at **IIIT Nagpur** (Class of 2028) who loves building things that actually work — from production web platforms to multi-agent AI systems.
+I'm a B.Tech Computer Science student at **IIIT Nagpur** (Class of 2028) who loves building things that actually work - from production web platforms to multi-agent AI systems.
 
 I believe in learning by building, and every project I take on pushes me deeper into real-world engineering.
 
@@ -10,7 +10,7 @@ I believe in learning by building, and every project I take on pushes me deeper 
 
 ## 🔥 What I'm Currently Building
 
-### [PitchProbe](https://github.com/Prayag-Srivastava/pitchprobe) — Multi-Agent AI Research Platform *(In Progress)*
+### [PitchProbe](https://github.com/Prayag-Srivastava/pitchprobe) - Multi-Agent AI Research Platform *(In Progress)*
 
 > An AI-powered platform that automates startup, market, and competitor research using autonomous agents.
 
@@ -32,9 +32,9 @@ I believe in learning by building, and every project I take on pushes me deeper 
 
 | | |
 |---|---|
-| 🥇 **National Winner** | Smart India Hackathon (SIH) 2025 — Built *Prashikshan*, an AI-powered NEP-compliant internship management platform |
-| ⭐ **CodeChef 3★** | Rating: **1614** — Competitive programming and DSA |
-| 💼 **Full Stack Intern** | Teckybot — Core Technical Team for Bharat Tech League (BTL) 2026, a nationwide hackathon platform |
+| 🥇 **National Winner** | Smart India Hackathon (SIH) 2025 - Built *Prashikshan*, an AI-powered NEP-compliant internship management platform |
+| ⭐ **CodeChef 3★** | Rating: **1614** - Competitive programming and DSA |
+| 💼 **Full Stack Intern** | Teckybot - Core Technical Team for Bharat Tech League (BTL) 2026, a nationwide hackathon platform |
 | 🤖 **Runner-up** | Maze Solver Robot Competition at *Abhikalpan* Tech Fest, IIIT Jabalpur |
 | 🎓 **CGPA: 8.78/10** | IIIT Nagpur, B.Tech CSE (till Semester IV) |
 
@@ -115,5 +115,5 @@ I believe in learning by building, and every project I take on pushes me deeper 
 ---
 
 <p align="center">
-  <i>"I don't just learn frameworks — I build systems."</i>
+  <i>"I don't just learn frameworks - I build systems."</i>
 </p>
